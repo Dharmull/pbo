@@ -15,6 +15,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Halo Dunia Satu Keluarga");
+        System.out.println("Seido ni modori, onogami wo mamoru no da");
     }
     
 }
