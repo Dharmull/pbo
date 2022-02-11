@@ -22,9 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /pertemuan 01/HelloWorld/nbproject/private/
-/pertemuan 01/JavaApplication3/nbproject/private/
-/pertemuan 01/JavaApplication3/build/
-/pertemuan 01/tes2/nbproject/private/
-/pertemuan 01/tes2/build/
-/pertemuan 02/tes2/build/
-/pertemuan 02/tes2/nbproject/private/
+/pertemuan 03/ProblemSet/nbproject/private/
+/pertemuan 03/ProblemSet/build/
+/pertemuan 03/Choice/nbproject/private/
+/pertemuan 03/Choice/build/
